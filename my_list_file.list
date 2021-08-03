@@ -1,1 +1,1 @@
-deb https://jczz.github.io/my_ppa/ main contrib non-free
+deb https://jczz.github.io/my_ppa/ stretch/updates main contrib non-free
