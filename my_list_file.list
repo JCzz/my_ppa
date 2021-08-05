@@ -1,1 +1,1 @@
-deb [trusted=yes] https://jczz.github.io/my_ppa/ main contrib non-free
+deb [trusted=yes] https://jczz.github.io/my_ppa/ ./
