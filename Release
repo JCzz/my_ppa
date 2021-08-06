@@ -1,15 +1,13 @@
-Origin: Example Repository
-Label: Example
-Suite: stable
-Codename: stable
-Version: 1.0
-Architectures: arm64
-Components: main
-Description: An example software repository
-Date: Mon, 02 Aug 2021 17:37:16 +0000
-MD5Sum:
-6c6d16d91d476ab8b55f2f287e9cb3c7
-SHA1:
-372a1fe8d112216f639be3e6e8559aa0ee73acf5
-SHA256:
-b06041d0c0a861de50b74c70c553b9c19b1f71875c9ded585dc6ed1bea94655e
+Package: aw
+Version: 0.0.1
+Architecture: arm64
+Maintainer: example <example@example.com>
+Depends: libc6
+Filename: ./aw_0.0.1_arm64.deb
+Size: 581780
+MD5sum: 6c6d16d91d476ab8b55f2f287e9cb3c7
+SHA1: 372a1fe8d112216f639be3e6e8559aa0ee73acf5
+SHA256: b06041d0c0a861de50b74c70c553b9c19b1f71875c9ded585dc6ed1bea94655e
+Homepage: http://example.com
+Description: A program that prints hello
+
