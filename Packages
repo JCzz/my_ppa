@@ -1,0 +1,13 @@
+Package: aw
+Version: 0.0.1
+Architecture: arm64
+Maintainer: example <example@example.com>
+Depends: libc6
+Filename: ./aw_0.0.1_arm64.deb
+Size: 1405964
+MD5sum: 3244e12adc04003f082d6cec404f5e7a
+SHA1: 73e5c5e4f64d7080a635998e4d5cd430d0972c55
+SHA256: a763c961951c3d268ae17ac2c12c98bac08af013a2ffdb6e145214cbeb3f53aa
+Homepage: http://example.com
+Description: A program that prints hello
+
