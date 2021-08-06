@@ -4,10 +4,10 @@ Architecture: arm64
 Maintainer: example <example@example.com>
 Depends: libc6
 Filename: ./aw_0.0.1_arm64.deb
-Size: 1004156
-MD5sum: 3e921a65f17351ff6eaab0e702e1a839
-SHA1: 2c1d79d69d4ab2f8a32939522a939aeede8cd3c1
-SHA256: 93fbf16d30e9cd4c52585e1af29973530cdaa2c7fbd16d3222e34d9ac7cce207
+Size: 570528
+MD5sum: f1872e445c8d78d520402d8977ad9ea1
+SHA1: 655aac361154a4bc40050fa19dde8774f321713d
+SHA256: 3ab7d6662848325c1a15d2453fe864caf4db6625fa2c679f5198391e108d5084
 Homepage: http://example.com
 Description: A program that prints hello
 
