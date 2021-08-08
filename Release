@@ -1,12 +1,12 @@
 Package: aw
-Version: 0.0.2
+Version: 0.0.3
 Architecture: arm64
 Maintainer: example <example@example.com>
-Filename: ./aw_0.0.2_arm64.deb
-Size: 570676
-MD5sum: 3ba7a9800b05d8a7f45bf7777ae2655e
-SHA1: 16e50c651dc287d2f505e8b6e5795fbb06f8bf20
-SHA256: d7fc191ba2ba7316e50651553104526616779a2f6dcf2abebca18337236b8bbb
+Filename: ./aw_0.0.3_arm64.deb
+Size: 570712
+MD5sum: 932886e12584405a449a4ee4336f44d4
+SHA1: 9b669dcaf5c5e41f931ecc414d7e41a1a0b42a1b
+SHA256: ad011513bdeafabd3742b93644a138507a546fe54a675e2a24d57373f14a3b89
 Homepage: http://kapps.dev
 Description: A program that prints hello
 
